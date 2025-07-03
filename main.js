@@ -26,5 +26,5 @@ function aumentaTamanho(){
      tamanhoSenha++;
 }
 numeroSenha.textContent = tamanhoSenha;
-
-
+    geraSena();
+}
